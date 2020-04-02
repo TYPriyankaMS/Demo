@@ -1,0 +1,15 @@
+.form-group input[type="text"] {
+    padding-left: 50px;
+}
+
+.from-group {
+    position: relative;
+}
+
+.form-group i {
+    position: absolute;
+    left: 0;
+    top: 8px;
+    padding: 9px 8px;
+    transition: .3s;
+}
